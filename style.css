@@ -1,0 +1,21 @@
+*{
+    margin: 0%;
+    padding: 0%;
+    box-sizing: border-box;
+}
+html,body{
+    height: 100%;
+    width: 100%;
+}
+.navbar{
+    margin-bottom: 10px;
+    padding-top: 0%;
+}
+.text-areaa{
+    width: 30%;
+    margin: 1% 35%;
+    border: 5px solid black;
+}
+.table-striped{
+    visibility: hidden;
+}
